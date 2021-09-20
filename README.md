@@ -24,4 +24,4 @@ graph and evaluated the model. </h3>
 <H3> In the given task, I just predicted the PM2.5 value based on the given test dataset. I first predict the values in the model trained in previous task and insert these values in a new file of test dataset.</h3>
 
 ## DAY 8 - DAY 9
-
+<h3> At the end of the project, we have to deploy the model using flask. So, first I did pickling of the code using pickle library and dumped it. Then write a html code file which I have to deploy as a web page, then made a app file for flask deployment and at the end hosted the page using heroku.</h3>
