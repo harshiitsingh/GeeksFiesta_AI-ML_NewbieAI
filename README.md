@@ -25,3 +25,5 @@ graph and evaluated the model. </h3>
 
 ## DAY 8 - DAY 9
 <h3> At the end of the project, we have to deploy the model using flask. So, first I did pickling of the code using pickle library and dumped it. Then write a html code file which I have to deploy as a web page, then made a app file for flask deployment and at the end hosted the page using heroku.</h3>
+
+![Capture1](https://user-images.githubusercontent.com/77427143/134116391-5449ca65-8106-4567-8c6e-e9a29494a65a.PNG)
